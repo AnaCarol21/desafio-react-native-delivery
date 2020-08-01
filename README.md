@@ -3,7 +3,9 @@
 <h3 align="center"> Desafio 11: GorRestaurant mobile do Bootcamp GoStack </h3>
 <p align="center">
   <a href="#dart-qual-objetivo">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#sparkles-como-usar-esta-aplicação">Como usar?</a>
+  <a href="#art-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#alembic-testes">Testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#sparkles-como-usar-esta-aplicação">Como usar?</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :dart: Qual objetivo?
